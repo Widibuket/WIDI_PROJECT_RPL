@@ -1,0 +1,10 @@
+/* CSS for Login user */
+.login{
+            border: none;
+            outline: none;
+            height: 40px;
+            width: 20%;
+            background-color: green;
+            color: white;
+            text-align: center;
+        }
